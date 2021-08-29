@@ -1,5 +1,3 @@
-
-
 int main() {
     char chk_digit;
     int i, ch, sum, temp;
